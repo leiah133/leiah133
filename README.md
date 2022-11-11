@@ -1,4 +1,4 @@
-Oiiieee! Eu dou a Léia Oliveira
+Oiiieee! Eu sou a Léia Oliveira, bem-vindo ao meu cantinho sinta-se à vontade
 - 🔭 Hoje Trabalho com front-end
 - 🌱 Estudando HTML | CSS3 | JavaScript | Wordpress
 - 💬 contate-me no email devpress.leia@gmail.com
