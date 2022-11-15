@@ -1,6 +1,6 @@
 Oiiieee! Eu sou a Léia Oliveira, bem-vindo ao meu cantinho sinta-se à vontade.
 - 🎓 Análise e Desenvolvimento de Sistemas 1/5 - Unicesumar
-- 🌱 Estudando:  HTML | CSS3 | JavaScript | Wordpress
+- 🌱 Estudando:  HTML | CSS3 | JavaScript 
 - 💬 contate-me no email devpress.leia@gmail.com
 - 😄 Pronouns: ela/dela
 
@@ -14,8 +14,7 @@ Oiiieee! Eu sou a Léia Oliveira, bem-vindo ao meu cantinho sinta-se à vontade.
   <img align="center" alt="leia-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="leia-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="leia-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="leia-wordpress" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" />
-
+ 
  
  ##
 
