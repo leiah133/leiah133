@@ -1,7 +1,7 @@
 Oiiieee! Eu sou a Léia Oliveira, bem-vindo ao meu cantinho sinta-se à vontade.
 - 🎓 Análise e Desenvolvimento de Sistemas 1/5 - Unicesumar
 - 🌱 Estudando:  HTML | CSS3 | React
-- 💬 contate-me no email leiaanjos87@gmail.com
+- 💬 contate-me no email leiaoliveira.dev@gmail.com
 - 😄 Pronouns: ela/dela
 
 <div align="center">
