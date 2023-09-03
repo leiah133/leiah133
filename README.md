@@ -1,6 +1,6 @@
 Oiiieee! Eu sou a Léia Oliveira, bem-vindo ao meu cantinho sinta-se à vontade.
 - 🎓 Análise e Desenvolvimento de Sistemas 2/5 - Unicesumar
-- 🌱 Estudando: JAVA | AWS | BANCO DE DADOS
+- 🌱 Habilidades Técnicas: JAVA | Angular | ReactJs | AWS | BANCO DE DADOS
 - 💬 contate-me no email leiaoliveira.dev@gmail.com
 - 😄 Pronouns: ela/dela
 
@@ -12,6 +12,8 @@ Oiiieee! Eu sou a Léia Oliveira, bem-vindo ao meu cantinho sinta-se à vontade.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="leia-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" >
+  <img align="center" alt="leia-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img align="center" alt="leia-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
   <img align="center" alt="leia-SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" >
   <img align="center" alt="leia-mongodb" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" >
   
