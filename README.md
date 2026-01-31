@@ -1,6 +1,6 @@
 Oiiieee! Eu sou a Léia Oliveira, bem-vindo ao meu cantinho sinta-se à vontade.
 - 🎓 Análise e Desenvolvimento de Sistemas 4/5 - Unicesumar
-- 🌱 Habilidades Técnicas:  HTML | CSS | JacaScript | VueJs | TailwindCss
+- 🌱 Habilidades Técnicas:  HTML | CSS | JacaScript  | TailwindCss
 - 💬 contate-me no email leiaoliveira.dev@gmail.com
 - 😄 Pronouns: ela/dela
 
@@ -11,8 +11,7 @@ Oiiieee! Eu sou a Léia Oliveira, bem-vindo ao meu cantinho sinta-se à vontade.
   <img align="center" alt="leia-Javascript" height="30" width="40" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/javascript.svg" />
   <img align="center" alt="leia-Javascript" height="30" width="40" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/typescript.svg" />
   <img align="center" alt="leia-reactjs" height="30" width="40" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/others/npm.svg" >
-  <img align="center" alt="leia-reactjs" height="30" width="40" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/frameworks/vuejs.svg" >
-  <img align="center" alt="leia-reactjs" height="30" width="40" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/frameworks/nextjs.svg" >
+  
   <img align="center" alt="leia-reactjs" height="30" width="40" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/text%20editors/vscode.svg" >
 
   
